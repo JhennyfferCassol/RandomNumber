@@ -1,0 +1,13 @@
+C:\Users\Jhenny Cassol\source\repos\LuckyNumber\LuckyNumber\obj\Debug\netcoreapp3.1\LuckyNumber.csprojAssemblyReference.cache
+C:\Users\Jhenny Cassol\source\repos\LuckyNumber\LuckyNumber\obj\Debug\netcoreapp3.1\LuckyNumber.AssemblyInfoInputs.cache
+C:\Users\Jhenny Cassol\source\repos\LuckyNumber\LuckyNumber\obj\Debug\netcoreapp3.1\LuckyNumber.AssemblyInfo.cs
+C:\Users\Jhenny Cassol\source\repos\LuckyNumber\LuckyNumber\obj\Debug\netcoreapp3.1\LuckyNumber.csproj.CoreCompileInputs.cache
+C:\Users\Jhenny Cassol\source\repos\LuckyNumber\LuckyNumber\bin\Debug\netcoreapp3.1\LuckyNumber.exe
+C:\Users\Jhenny Cassol\source\repos\LuckyNumber\LuckyNumber\bin\Debug\netcoreapp3.1\LuckyNumber.deps.json
+C:\Users\Jhenny Cassol\source\repos\LuckyNumber\LuckyNumber\bin\Debug\netcoreapp3.1\LuckyNumber.runtimeconfig.json
+C:\Users\Jhenny Cassol\source\repos\LuckyNumber\LuckyNumber\bin\Debug\netcoreapp3.1\LuckyNumber.runtimeconfig.dev.json
+C:\Users\Jhenny Cassol\source\repos\LuckyNumber\LuckyNumber\bin\Debug\netcoreapp3.1\LuckyNumber.dll
+C:\Users\Jhenny Cassol\source\repos\LuckyNumber\LuckyNumber\bin\Debug\netcoreapp3.1\LuckyNumber.pdb
+C:\Users\Jhenny Cassol\source\repos\LuckyNumber\LuckyNumber\obj\Debug\netcoreapp3.1\LuckyNumber.dll
+C:\Users\Jhenny Cassol\source\repos\LuckyNumber\LuckyNumber\obj\Debug\netcoreapp3.1\LuckyNumber.pdb
+C:\Users\Jhenny Cassol\source\repos\LuckyNumber\LuckyNumber\obj\Debug\netcoreapp3.1\LuckyNumber.genruntimeconfig.cache

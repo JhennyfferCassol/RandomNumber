@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oeRK3GA1LasQXQ2pXTnWiDBO+xFffk/XVzSPvGiez32Zy4RCHcOO6k2uSEGAoisXe72OAIDzlSqjI0pMDCvHpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jhenny Cassol\\Documents\\IT\\repos\\LuckyNumber\\LuckyNumber\\LuckyNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jhenny Cassol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Jhenny Cassol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Jhenny Cassol\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
